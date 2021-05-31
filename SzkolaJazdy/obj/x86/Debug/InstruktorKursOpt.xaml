@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="DataAccess.InstruktorKursOpt"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DataAccess"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="WhiteSmoke">
+        <AppBarButton x:ConnectionId='2' Icon="Back" Label="Strona główna" Height="50" Width="100" 
+                                      Margin="30"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <ComboBox x:ConnectionId='5' Name="cbNazKurs" Height="100" Width="200" FontSize="20"
+                      Margin="30" HorizontalAlignment="Center" VerticalAlignment="Center"
+                      Header="Nazwisko Kursanta">
+            </ComboBox>
+            <Button x:ConnectionId='6' Name="btnOdswiezTabele" Content="Odśwież tabele" BorderBrush="Black" 
+                    BorderThickness="3" FontSize="20" Width="170" Height="60" Margin="50"
+                    Background="RoyalBlue" Foreground="Snow" HorizontalAlignment="Right"
+                    VerticalAlignment="Top"                              />
+        </StackPanel>
+        
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Kursanci" FontSize="55"  
+                                   HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+            <ListView x:ConnectionId='3' Name="SelectKurs" BorderBrush="Black" BorderThickness="3"
+                             Height="600" Width="800" Background="LightBlue"
+                             ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding}" FontSize="25"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>
+

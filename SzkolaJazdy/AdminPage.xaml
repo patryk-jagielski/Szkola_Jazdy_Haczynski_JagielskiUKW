@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="SzkolaJazdy.AdminPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SzkolaJazdy"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="WhiteSmoke">
+        <Button Content="Wyloguj się" HorizontalAlignment="Right" VerticalAlignment="Top"
+                Background="Snow" FontSize="40" Margin="30" BorderBrush="Black" BorderThickness="3"
+                Click="Wylogowanie"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button BorderBrush="Black" BorderThickness="3" Content="Instruktorzy" 
+                    FontSize="70" Width="500" Height="350" Margin="20"
+                    Background="RoyalBlue" Foreground="Snow" Click="PrzejscieDoInstruktorzyOpt"/>
+            <Button BorderBrush="Black" BorderThickness="3" Content="Kursanci" 
+                    FontSize="70" Width="500" Height="350" Margin="20"
+                     Background="RoyalBlue" Foreground="Snow" Click="PrzejscieDoKursanciOpt"/>
+            <Button BorderBrush="Black" BorderThickness="3" Content="Pojazdy" 
+                    FontSize="70" Width="500" Height="350" Margin="20"
+                    Background="RoyalBlue" Foreground="Snow" Click="PrzejscieDoPojazdyOpt"/>
+        </StackPanel>
+
+    </Grid>
+</Page>

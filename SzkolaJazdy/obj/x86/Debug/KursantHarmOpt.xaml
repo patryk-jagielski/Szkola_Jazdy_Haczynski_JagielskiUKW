@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="SzkolaJazdy.KursantHarmOpt"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SzkolaJazdy"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="WhiteSmoke">
+        <AppBarButton x:ConnectionId='2' Icon="Back" Label="Strona główna" Height="50" Width="100" 
+                                      Margin="30"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center"
+                        Margin="200,0,200,0" BorderBrush="Black" BorderThickness="2" Background="AliceBlue">
+                <StackPanel>
+                    <TextBlock Text="Zapisz się na jazdy!!!" FontSize="25" Margin="10"/>
+                    <CalendarDatePicker x:ConnectionId='8' Name="cdpDzien" Height="50" Width="200" FontSize="20"
+                                        Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <ComboBox x:ConnectionId='9' Name="cbGodzina" Height="100" Width="200" FontSize="20"
+                              Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center"
+                              Header="Wybór godziny">
+                        <ComboBoxItem Content="8:00 - 10:00"/>
+                        <ComboBoxItem Content="10:00 - 12:00"/>
+                        <ComboBoxItem Content="12:00 - 14:00"/>
+                        <ComboBoxItem Content="14:00 - 16:00"/>
+                        <ComboBoxItem Content="16:00 - 18:00"/>
+                    </ComboBox>
+                    <ComboBox x:ConnectionId='10' Name="cbInstruktor" Height="100" Width="200" FontSize="20"
+                              Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center"
+                              Header="Wybór instruktora">
+                    </ComboBox>
+                </StackPanel>
+                <Button x:ConnectionId='7' Name="btnZapisanieNaJazdy" Content="Zapisz się"                         
+                        HorizontalAlignment="Center" Margin="10" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Center"
+                        Margin="0,0,200,0" Background="WhiteSmoke">
+                <StackPanel>
+                    <Button x:ConnectionId='5' Name="btnOdswiezTabele" Content="Odśwież tabele" BorderBrush="Black" 
+                        BorderThickness="3" FontSize="18" Width="150" Height="60" Margin="10"
+                        Background="RoyalBlue" Foreground="Snow" HorizontalAlignment="Right"
+                                                     />
+                    <Button x:ConnectionId='6' Name="btnAnulujJazdy" Content="Anuluj zaznaczone jazdy" BorderBrush="Black" 
+                        BorderThickness="3" FontSize="18" Width="auto" Height="60" Margin="10"
+                        Background="RoyalBlue" Foreground="Snow" HorizontalAlignment="Right"
+                                           />
+                </StackPanel>
+                <TextBlock Text="Harmonogram jazd" FontSize="55"  
+                               HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,30,0,0">
+                    <ListView x:ConnectionId='3' Name="SelectHarmKursanta" BorderBrush="Black" BorderThickness="1"
+                         Height="500" Width="1000" Background="LightBlue"
+                         ScrollViewer.VerticalScrollBarVisibility="Visible">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding}" FontSize="25"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        
+
+    </Grid>
+</Page>
+

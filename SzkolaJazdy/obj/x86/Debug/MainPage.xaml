@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="SzkolaJazdy.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SzkolaJazdy"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="WhiteSmoke">
+        <StackPanel VerticalAlignment="Center" Orientation="Vertical">
+            <TextBlock FontSize="100" TextAlignment="Center" Margin="30" FontStyle="Italic" Text="LOGOWANIE"
+                       Foreground="RoyalBlue"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20">
+                <TextBlock Text="Login:" FontSize="50" FontStyle="Italic"/>
+                <TextBox x:ConnectionId='5' Name="login" FontSize="50" Width="550" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Margin="20">
+                <TextBlock Text="Hasło:" FontSize="50" FontStyle="Italic"/>
+                <PasswordBox x:ConnectionId='4' Name="haslo" FontSize="50" Width="550"/>
+            </StackPanel>
+            
+            <Button x:ConnectionId='2' Name="btnZaloguj" Content="Zaloguj się" FontSize="40" HorizontalAlignment="Center" Width="300" 
+                     Background="RoyalBlue" Foreground="Snow"                   Margin="10"/>
+            <HyperlinkButton x:ConnectionId='3' Name="btnRejestracja" FontStyle="Italic" Content="Nie masz jeszcze konta? Stwórz je!" FontSize="30" HorizontalAlignment="Center" Width="500"                    />
+        </StackPanel>
+        
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,48 @@
+D:\Visual Studio\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.dll
+D:\Visual Studio\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.pdb
+D:\Visual Studio\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.pri
+D:\Visual Studio\SzkolaJazdy\DataAccess\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csproj.CopyComplete
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.dll
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.pdb
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\priconfig.xml
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\priconfig.xml.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\filtered.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\excluded.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\resources.resfiles
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\resources.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\pri.resfiles
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\pri.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\qualifiers.txt
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Visual Studio\SzkolaJazdy\DataAccess\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.pdb
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\bin\x86\Debug\DataAccess.pri
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.csproj.CopyComplete
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\DataAccess.pdb
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\priconfig.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\resources.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\pri.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\qualifiers.txt
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,246 @@
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csprojAssemblyReference.cache
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\App.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\MainPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Rejestracja.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.xr.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.exe
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.pdb
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\resources.pri
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\AppxManifest.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Core\AppxManifest.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Core\SzkolaJazdy.exe
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.build.appxrecipe
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\System.Runtime.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csproj.CopyComplete
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.exe
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.pdb
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\ResourceHandlingTask.state
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\priconfig.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\priconfig.xml.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\filtered.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\excluded.layout.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\pri.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\pri.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\qualifiers.txt
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\ProjectArchitectures.txt
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\AdminPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\e_sqlite3.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.dll
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.pdb
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.pri
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DataAccess.pri.xml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.en-us.resfiles
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorzyAdminOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursanciAdminOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\PojazdyAdminOption.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantDaneUzOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantHarmOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DaneUzytkownikaIns.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorHarmOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorKursOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorPojOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.g.i.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.g.cs
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.xaml
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.xbf
+D:\Visual Studio\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\App.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\AdminPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DaneUzytkownikaIns.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorHarmOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorKursOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorPojOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\InstruktorzyAdminOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursanciAdminOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantDaneUzOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantHarmOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\KursantPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\MainPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\PojazdyAdminOption.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Rejestracja.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.xr.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.exe
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.pdb
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\resources.pri
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\AppxManifest.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Core\SzkolaJazdy.exe
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SzkolaJazdy.build.appxrecipe
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\System.Runtime.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\e_sqlite3.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.dll
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.pdb
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\bin\x86\Debug\DataAccess.pri
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csprojAssemblyReference.cache
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.g.i.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.xaml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\App.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\AdminPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DaneUzytkownikaIns.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorHarmOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorKursOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorPojOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\InstruktorzyAdminOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursanciAdminOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantDaneUzOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantHarmOpt.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\KursantPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MainPage.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\PojazdyAdminOption.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Rejestracja.xbf
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csproj.CoreCompileInputs.cache
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.csproj.CopyComplete
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\DataAccess.pri.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.exe
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\SzkolaJazdy.pdb
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\priconfig.xml
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\pri.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\qualifiers.txt
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json

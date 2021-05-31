@@ -1,0 +1,2 @@
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\DataAccess\DataAccess.csproj;x86
+C:\Users\timor\Downloads\SzkolaJazdy_v5\SzkolaJazdy\SzkolaJazdy\SzkolaJazdy.csproj;x86
